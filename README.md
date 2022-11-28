@@ -3,8 +3,9 @@
 
 ### Tasks descriptions
 
-- Feature engineering A: Frequency lists for abstracts and titles (Jamie)
-- 
+- Feature engineering A: Frequency lists for abstracts and titles. (Jamie)
+- Feature engineering B: Obtaining vectors/one hot econding to represent occurrences of keywords in abstracts and titles. (Diego)
+- Feature engineering C: Employ the apriori algorithm to find the most common bundles of keywords (Diego)
 
 
 
